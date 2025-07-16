@@ -90,5 +90,5 @@ This has real-world applications in:
 ## 💼 About Me
 
 I'm currently pursuing my Master's in Data Science and passionate about building real-world machine learning projects that combine business insight, analytics, and storytelling.  
-Let’s connect on [LinkedIn](www.linkedin.com/in/atharv-kadam) — I’m actively looking for opportunities in data analytics, product analytics, or ML-based roles.
+Let’s connect on LinkedIn: www.linkedin.com/in/atharv-kadam — I’m actively looking for opportunities in data analytics, product analytics, or ML-based roles.
 
